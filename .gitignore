@@ -1,0 +1,11 @@
+node_modules/
+.env
+.env.*
+dist/
+.pgdata/
+.miniodata/
+.pgadmindata/
+*.log
+Dockerfile
+ssh-tunnel.bat
+.kiro/
